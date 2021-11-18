@@ -1,11 +1,16 @@
 body {
-  padding-top: 64px;
+  padding-top: 105px;
+  background-color: #fafafa;
 }
 
 .navbar {
   background-color: white !important;
   height: 54px;
-  border: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.logo {
+  margin-left: 192px;
 }
 
 ::placeholder {
